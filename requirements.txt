@@ -1,0 +1,16 @@
+colorama==0.4.6
+iniconfig==2.3.0
+packaging==25.0
+pluggy==1.6.0
+Pygments==2.19.2
+pytest==8.4.2
+isort==7.0.0
+flake8==7.3.0
+black==25.9.0
+selene==2.0.0rc9
+selenium==4.38.0
+
+pip~=25.2
+typing_extensions~=4.15.0
+attrs~=25.4.0
+PySocks~=1.7.1
